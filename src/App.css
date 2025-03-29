@@ -59,6 +59,10 @@ button {
   cursor: pointer;
 }
 
+.edit-button {
+  margin-right: 10px;
+}
+
 .news-item {
   border: 1px solid #ddd;
   padding: 10px;
